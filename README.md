@@ -1,11 +1,15 @@
 # Hi there, I'm Madison 👋
 
+</br>
+
 ## I love...  
 👩🏻‍💻 programming  
 📚 learning new things  
 🎹 music  
 🌿 the environment  
 ☕️ good coffee   
+
+</br>
 
 ## I'm currently working on... 
 📱 Beta of StetsonScene  
@@ -30,6 +34,8 @@ One of my 2020 goals was to contribute to the online development community, so I
 - [Bash Aliases and Functions: a Programmer’s Productivity Hack](https://medium.com/dev-genius/bash-aliases-and-functions-a-programmers-productivity-hack-1027c65f37)  
 - [Implementing AR in SwiftUI… without Storyboards](https://medium.com/dev-genius/implementing-ar-in-swiftui-without-storyboards-ec529ace7ab2)  
 - [SwiftUI Menu Widget (easy to customize & integrate)](https://medium.com/dev-genius/swiftui-menu-widget-easy-to-customize-integrate-75a36f067d83)  
+
+</br>
 
 ## Connect with me!
 🖥 [Website](https://madison-gipson.webflow.io)  
