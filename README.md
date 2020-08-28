@@ -1,6 +1,14 @@
 # Hi there, I'm Madison 👋
 
-connect on linkedin, twitter, website, medium
+### Connect with me:
+<img align="left" alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />  
+<img align="left" alt="Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />  
+<img align="left" alt="Website" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/website.svg" />  
+[<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>][medium]  
+
+<br />
+
+---
 
 ### I love...  
 👩🏻‍💻 programming  
@@ -9,11 +17,9 @@ connect on linkedin, twitter, website, medium
 🌿 the environment  
 ☕️ good coffee   
 
-<br />
-
 ---
 
-### I'm currently working on... 
+### I'm currently working on:  
 📱 Beta of StetsonScene: iOS application for university events (with Calendar, AR, and Map)
 - [Repo](https://github.com/ldhough/Stetson-Scene-Showcase)  
 - [Project Info & Demo](https://www.youtube.com/watch?v=LQdyA4Y4_qM)  
@@ -33,11 +39,11 @@ connect on linkedin, twitter, website, medium
 - [Implementing AR in SwiftUI… without Storyboards](https://medium.com/dev-genius/implementing-ar-in-swiftui-without-storyboards-ec529ace7ab2)  
 - [SwiftUI Menu Widget (easy to customize & integrate)](https://medium.com/dev-genius/swiftui-menu-widget-easy-to-customize-integrate-75a36f067d83)  
 
-<br />
-
 ---
 
 ### Connect with me!
 🖥 [Website](https://madison-gipson.webflow.io)  
 🔗 [LinkedIn](https://www.linkedin.com/in/mgip/)  
 𝐌 [Medium](https://medium.com/@mmgipson3)  
+
+[medium]: https://medium.com/@mmgipson3
