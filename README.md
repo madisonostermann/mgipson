@@ -1,10 +1,10 @@
 # Hi there, I'm Madison 👋
 
 ### Connect with me:
-<img align="left" alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />  
-<img align="left" alt="Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />  
-<img align="left" alt="Website" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/website.svg" />  
-[<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>][medium]  
+[🖥](https://madison-gipson.webflow.io)   
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mgip/)  
+[<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@mmgipson3)  
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/MadisonGipson4)
 
 <br />
 
@@ -39,11 +39,3 @@
 - [Implementing AR in SwiftUI… without Storyboards](https://medium.com/dev-genius/implementing-ar-in-swiftui-without-storyboards-ec529ace7ab2)  
 - [SwiftUI Menu Widget (easy to customize & integrate)](https://medium.com/dev-genius/swiftui-menu-widget-easy-to-customize-integrate-75a36f067d83)  
 
----
-
-### Connect with me!
-🖥 [Website](https://madison-gipson.webflow.io)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mgip/)  
-𝐌 [Medium](https://medium.com/@mmgipson3)  
-
-[medium]: https://medium.com/@mmgipson3
