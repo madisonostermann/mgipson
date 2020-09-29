@@ -1,15 +1,6 @@
-# Hi there, I'm Madison 👋
+# Hi there, I'm Madison 👋 [<img align="right" alt="Website" width="80px" src="https://img.shields.io/badge/website-%231ED760.svg?&style=for-the-badge&logoColor=white" />](https://madisongipson.com)[<img align="right" alt="LinkedIn" width="80px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mgip/)[<img align="right" alt="Medium" width="80px" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@mmgipson3)[<img align="right" alt="Twitter" width="80px" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/MadisonGipson4)
 
-<!---### Connect with me!
-[🖥][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  --->
-
-<!---[🖥][website] Website--->  
-[![Website](https://img.shields.io/badge/website-%231ED760.svg?&style=for-the-badge&logoColor=white)](https://madisongipson.com)     [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mgip/)     [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mmgipson3)     [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MadisonGipson4)
-
----
+<!---[![Website](https://img.shields.io/badge/website-%231ED760.svg?&style=for-the-badge&logoColor=white)](https://madisongipson.com)     [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mgip/)     [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mmgipson3)     [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MadisonGipson4)--->
 
 ### I love...  
 👩🏻‍💻 programming  
