@@ -64,7 +64,7 @@ and more!
 - [SwiftUI Menu Widget (easy to customize & integrate)](https://medium.com/dev-genius/swiftui-menu-widget-easy-to-customize-integrate-75a36f067d83)  
 
 
-[linkedin]: (https://www.linkedin.com/in/mgip/)
-[website]: (https://madisongipson.com)
-[twitter]: (https://twitter.com/MadisonGipson4)
-[medium]: (https://medium.com/@mmgipson3)
+[LinkedIn]: (https://www.linkedin.com/in/mgip/)
+[Website]: (https://madisongipson.com)
+[Twitter]: (https://twitter.com/MadisonGipson4)
+[Medium]: (https://medium.com/@mmgipson3)
