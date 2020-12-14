@@ -13,7 +13,7 @@
 
 ### I'm currently working on...  
 
-🚀 NASA Data Science Internship
+🚀 NASA Data Science Internship  
 The primary goal of this internship is to create an application that provides insights into NASA’s human capital that will allow the organization to recognize evolving human resource needs and strategically align resources with the skills needed as we go back to the Moon and onto Mars. 
 Supporting work has included:
 - Automating the construction of a comprehensive knowledge graph database in Neo4j from NASA-specific and open-source workforce-related data via a Python script leveraging Py2Neo, Cypher, and Doc2Vec.
