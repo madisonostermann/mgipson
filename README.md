@@ -11,31 +11,15 @@
 
 ---
 
-### I've worked with...  
-<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg" /> Swift  
-<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> Python  
-<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /> C++  
-<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" /> Java  
-  
-<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dash.svg" /> Dash  
-<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/neo4j.svg" /> Neo4j  
-<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" /> Firebase  
-<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" /> PostgreSQL  
-<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachespark.svg" /> ApacheSpark  
-  
-<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xcode.svg" /> XCode  
-<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" /> VSCode  
-<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jirasoftware.svg" /> Jira  
-<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" /> Docker  
-<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" /> Git  
-<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/subversion.svg" /> SVN  
-<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" /> Linux  
-  
-and more!
-
----
-
 ### I'm currently working on...  
+
+🚀 NASA Data Science Internship
+The primary goal of this internship is to create an application that provides insights into NASA’s human capital that will allow the organization to recognize evolving human resource needs and strategically align resources with the skills needed as we go back to the Moon and onto Mars. 
+Supporting work has included:
+- Automating the construction of a comprehensive knowledge graph database in Neo4j from NASA-specific and open-source workforce-related data via a Python script leveraging Py2Neo, Cypher, and Doc2Vec.
+- Creating a prototype code-less Dash application that queries the knowledge graph and provides clear and interactive data visualizations.
+- Leveraging natural language processing for calculating document similarity and engineering a text-to-query pipeline to integrate into the application.
+
 📱 Beta of StetsonScene: iOS application for university events (with Calendar, AR, and Map)
 - [Repo](https://github.com/ldhough/Stetson-Scene-Showcase)  
 - [Project Info & Demo](https://www.youtube.com/watch?v=LQdyA4Y4_qM)  
@@ -47,8 +31,6 @@ and more!
 - [Bar Chart Visualization Demo](https://www.youtube.com/watch?v=n56lA2_Rc4Y&feature=emb_logo)  
 - [Line Graph Visualization](https://www.youtube.com/watch?v=WF4Gai-JpKY&feature=emb_logo)  
 - [Interactive Value Bar](https://www.youtube.com/watch?v=pT0dG35hkLQ&feature=emb_logo)  
-
-🚀 NASA Data Science Internship: creating a data visualization application with Neo4j, Cypher, and Dash!  
 
 ✒️ [Medium Tutorials](https://medium.com/@mmgipson3): one of my 2020 goals was to contribute to the online development community, so I've written a few articles relating to programming!  
 - [Bash Aliases and Functions: a Programmer’s Productivity Hack](https://medium.com/dev-genius/bash-aliases-and-functions-a-programmers-productivity-hack-1027c65f37)  
