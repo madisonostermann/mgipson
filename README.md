@@ -16,8 +16,9 @@
 🚀 NASA Data Science Internship  
 The primary goal of this internship is to create an application that provides insights into NASA’s human capital that will allow the organization to recognize evolving human resource needs and strategically align resources with the skills needed as we go back to the Moon and onto Mars. 
 Supporting work has included:
-- Automating the construction of a comprehensive knowledge graph database in Neo4j from NASA-specific and open-source workforce-related data via a Python script leveraging Py2Neo, Cypher, and Doc2Vec.
-- Creating a prototype code-less Dash application that queries the knowledge graph and provides clear and interactive data visualizations.
+- Collaborating with technical and non-technical stakeholders across the agency in order to ensure a scalable, high-quality outcome that will satisfy the diverse range of user groups
+- Automating the construction of a comprehensive knowledge graph database in Neo4j from NASA-specific and open-source data via a Python script leveraging Py2Neo, Cypher, and Doc2Vec
+- Creating prototype code-less Dash and Shiny applications that query the knowledge graph and provide clear and interactive data visualizations
 - Leveraging natural language processing for calculating document similarity and engineering a text-to-query pipeline to integrate into the application.
 
 📱 Beta of StetsonScene: iOS application for university events (with Calendar, AR, and Map)
