@@ -13,7 +13,7 @@
 
 ### I'm currently working on...  
 
-🚀 NASA Data Science Projects
+🚀 NASA Data Science Projects  
 The primary goal of my work is to provide insights into NASA’s human capital that will allow the organization to recognize evolving human resource needs and strategically align resources with the skills needed as we go back to the Moon and onto Mars. This work includes building various types of applications and conducting exploratory data analysis.
 Supporting work has included:
 - Collaborating with technical and non-technical stakeholders across the agency in order to ensure a scalable, high-quality outcome that will satisfy the diverse range of user groups
