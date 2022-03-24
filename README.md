@@ -1,6 +1,10 @@
-# Hi there, I'm Madison 👋 [<img align="right" alt="Twitter" width="80px" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/MadisonGipson4)[<img align="right" alt="Medium" width="80px" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@mmgipson3)[<img align="right" alt="LinkedIn" width="80px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mgip/)[<img align="right" alt="Website" width="80px" src="https://img.shields.io/badge/website-%231ED760.svg?&style=for-the-badge&logoColor=white" />](https://madisongipson.com)
-
-<!---[![Website](https://img.shields.io/badge/website-%231ED760.svg?&style=for-the-badge&logoColor=white)](https://madisongipson.com)     [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mgip/)     [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@madisongipson)     [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/madisonmgipson)     [![Youtube](https://img.shields.io/badge/youtube-%231ED760.svg?&style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCuNolWmTBhhU1MVvpqS6WXw)  --->
+### Hi there, I'm Madison 👋
 
 I'm a coding enthusiast living in Washington DC!   
 I currently work at NASA as a Data Scientist, and in addition to my day job I love learning new things and working on side projects. 
+
+👋 [Website](https://madisongipson.com)   
+👩‍💼 [LinkedIn](https://www.linkedin.com/in/mgip/)   
+✍️ [Medium](https://medium.com/@madisongipson)   
+🐦 [Twitter](https://twitter.com/madisonmgipson)   
+🎥 [Youtube](https://www.youtube.com/channel/UCuNolWmTBhhU1MVvpqS6WXw)   
